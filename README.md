@@ -13,14 +13,21 @@ We will design and implement a relational database system to store comprehensive
 🎯 Tasks
 Database Schema:
 Patients: Contains patient demographic information.
+
 Doctors: Stores information about doctors and their specializations.
+
 MedicalRecords: Includes details about medical records, such as admission and discharge dates, diagnoses, treatments, and associated doctor IDs.# Hospital_Patient_management
 
 ⭐ Final Analysis:
 Find the Doctor Who Treated the Most Patients.
+
 Retrieve Names of Patients Along with Admission and Discharge Dates.
+
 List Patients Diagnosed with Hypertension or Diabetes.
+
 List Patients Treated by Doctors Specializing in Cardiology.
+
 List Top 3 Doctors Who Treated the Most Patients.
+
 Display Patient Who Spent the Most Time in the Hospital.
 
